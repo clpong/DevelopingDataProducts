@@ -1,6 +1,6 @@
 library(shiny)
 shinyUI(pageWithSidebar(
-  headerPanel("Car Loan Repayment"),
+  headerPanel("Car Loan Repayment Calculator"),
   sidebarPanel(
     numericInput('Principal', 'Loan Amount (MYR)', 15000, min=0, step=10000),
     numericInput('InterestRate', 'Interest Rate Per Annum', 2.3, min=0, step =1),
