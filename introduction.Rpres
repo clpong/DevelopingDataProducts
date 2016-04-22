@@ -1,0 +1,45 @@
+Introduction to Car Loan Calculator
+========================================================
+author: Pong Chia Lee
+date: 21 April 2016
+
+Background
+========================================================
+## Car Loan Calculator 
+
+1. Car Loan Calculator can help purchaser to decide own financial capability to own a car. 
+
+2. This application helps purchaser, car dealer, and banker to understand financial condition, and capability of purchaser before going through complex loan application. 
+
+3. It also helps car dealer to understand purchaser's car requirement base on the loan, tenure, and interest rate of the market. 
+
+Variables Description
+========================================================
+
+1. Market Interst Rate offered by Bank
+2. Total Amount to Loan from Bank 
+3. Loan Tenure that purcharser is willing to serve
+4. Monthly Repayment to determine the affordability of purchaser to pay per month. 
+
+
+Relationship Among variables
+========================================================
+
+1. An user input variables describe on slides 2. 
+2. Monthly Repayment, Total Interest to Pay, and Total Payment will change accordingly to variables that being submitted by an user. 
+
+Target User Pool 
+========================================================
+1. Car Purcharser 
+2. Banker or Credit Officer 
+3. Bank 
+4. Car Dealer
+
+Summary
+========================================================
+
+This application gives the following information of Car Loan Calculator:
+
+- Monthly Repayment, Total Interest to Pay, and Total Payment for the tenure, interest rate, and loan amount that a purchaser borrow from bank.
+
+- Relationship among the define variables.
